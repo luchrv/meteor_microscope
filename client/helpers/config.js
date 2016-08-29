@@ -1,6 +1,6 @@
 accountsUIBootstrap3.setLanguage('es');
 Accounts.ui.config({
-    passwordSignupFields: 'USERNAME_ONLY'
+    passwordSignupFields: 'USERNAME_ONLY',
     requestPermissions: {},
     extraSignupFields: [{
         fieldName: 'first-name',
